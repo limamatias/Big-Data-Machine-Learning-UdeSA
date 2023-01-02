@@ -8,4 +8,4 @@ La carpeta Trabajo Práctico 1 contiene dos libretas de Jupyter Notebook con la 
 
 ## Trabajo práctico 2: Clasificación aplicada a la EPH.
 
-La carpeta Trabajo Práctico 2 contiene la libreta de Jupyter Notebook con el código de la resolución, además de los archivos necesarios para poder correrlo de manera correcta. Se utilizan las librerías **Numpy** y **Pandas**, además de diferentes módulos del paquete **sklearn** para realizar matrices de confusión, curvas ROC, cálculo de precisión, análisis discriminante y utilizar algoritmos de vecinos cercanos.
+La carpeta Trabajo Práctico 2 contiene la libreta de Jupyter Notebook con el código de la resolución, además de los archivos necesarios para poder correrlo de manera correcta. Se utilizan las librerías **Numpy** y **Pandas**, además de diferentes módulos del paquete **sklearn** para realizar matrices de confusión, curvas ROC, cálculo de precisión, análisis discriminante y utilizar algoritmos de vecinos cercanos. También se puede encontrar un archivo PDF con el informe correspondiente al trabajo práctico.
