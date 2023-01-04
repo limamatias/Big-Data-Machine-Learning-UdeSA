@@ -1,4 +1,4 @@
-# Big-Data-Python-UdeSA
+# Big Data (UdeSA)
 
 Repositorio con los trabajos prácticos realizados para la materia Big Data en la maestría en economía de UdeSA (profesor Walter Sosa Escudero), en colaboración con Catalina Banfi y Santiago López. 
 
