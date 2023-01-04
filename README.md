@@ -1,6 +1,6 @@
-# Big Data (UdeSA)
+# Big Data, Aprendizaje y Minería de Datos (UdeSA)
 
-Repositorio con los trabajos prácticos realizados para la materia Big Data en la maestría en economía de UdeSA (profesor Walter Sosa Escudero), en colaboración con Catalina Banfi y Santiago López. 
+Repositorio con los trabajos prácticos realizados para la materia Big Data en la maestría en economía de UdeSA (profesor Walter Sosa Escudero, ayudantes Belen Michel Torino y Matías Gomez Seeber), en colaboración con Catalina Banfi y Santiago López. 
 
 ## Trabajo práctico 1: Funciones básicas y Análisis de Sentimiento.
 
